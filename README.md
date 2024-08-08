@@ -11,15 +11,15 @@ The following graphs show how 5 dimensional features are mapped into a 2-dimensi
 
 For more explanation on the following graphs see [here](https://transformer-circuits.pub/2022/toy_model/index.html#demonstrating).
 
-<img src="gifs/linear_network_sparsity_0.00_plots.gif" alt="linear_network_sparsity_0.00_plots.gif" width="49%"/>
-<img src="gifs/non_linear_network_sparsity_0.00_plots.gif" alt="non_linear_network_sparsity_0.00_plots.gif" width="49%"/>
-<img src="gifs/linear_network_sparsity_0.25_plots.gif" alt="linear_network_sparsity_0.25_plots.gif" width="49%"/>
-<img src="gifs/non_linear_network_sparsity_0.25_plots.gif" alt="non_linear_network_sparsity_0.25_plots.gif" width="49%"/>
-<img src="gifs/linear_network_sparsity_0.50_plots.gif" alt="linear_network_sparsity_0.50_plots.gif" width="49%"/>
-<img src="gifs/non_linear_network_sparsity_0.50_plots.gif" alt="non_linear_network_sparsity_0.50_plots.gif" width="49%"/>
-<img src="gifs/linear_network_sparsity_0.80_plots.gif" alt="linear_network_sparsity_0.80_plots.gif" width="49%"/>
-<img src="gifs/non_linear_network_sparsity_0.80_plots.gif" alt="non_linear_network_sparsity_0.80_plots.gif" width="49%"/>
-<img src="gifs/linear_network_sparsity_0.90_plots.gif" alt="linear_network_sparsity_0.90_plots.gif" width="49%"/>
-<img src="gifs/non_linear_network_sparsity_0.90_plots.gif" alt="non_linear_network_sparsity_0.90_plots.gif" width="49%"/>
-<img src="gifs/linear_network_sparsity_0.95_plots.gif" alt="linear_network_sparsity_0.95_plots.gif" width="49%"/>
-<img src="gifs/non_linear_network_sparsity_0.95_plots.gif" alt="non_linear_network_sparsity_0.95_plots.gif" width="49%"/>
+<img src="gifs/linear_network_sparsity_0.00_plots.gif" alt="linear_network_sparsity_0.00_plots.gif" width="40%"/>
+<img src="gifs/non_linear_network_sparsity_0.00_plots.gif" alt="non_linear_network_sparsity_0.00_plots.gif" width="40%"/>
+<img src="gifs/linear_network_sparsity_0.25_plots.gif" alt="linear_network_sparsity_0.25_plots.gif" width="40%"/>
+<img src="gifs/non_linear_network_sparsity_0.25_plots.gif" alt="non_linear_network_sparsity_0.25_plots.gif" width="40%"/>
+<img src="gifs/linear_network_sparsity_0.50_plots.gif" alt="linear_network_sparsity_0.50_plots.gif" width="40%"/>
+<img src="gifs/non_linear_network_sparsity_0.50_plots.gif" alt="non_linear_network_sparsity_0.50_plots.gif" width="40%"/>
+<img src="gifs/linear_network_sparsity_0.80_plots.gif" alt="linear_network_sparsity_0.80_plots.gif" width="40%"/>
+<img src="gifs/non_linear_network_sparsity_0.80_plots.gif" alt="non_linear_network_sparsity_0.80_plots.gif" width="40%"/>
+<img src="gifs/linear_network_sparsity_0.90_plots.gif" alt="linear_network_sparsity_0.90_plots.gif" width="40%"/>
+<img src="gifs/non_linear_network_sparsity_0.90_plots.gif" alt="non_linear_network_sparsity_0.90_plots.gif" width="40%"/>
+<img src="gifs/linear_network_sparsity_0.95_plots.gif" alt="linear_network_sparsity_0.95_plots.gif" width="40%"/>
+<img src="gifs/non_linear_network_sparsity_0.95_plots.gif" alt="non_linear_network_sparsity_0.95_plots.gif" width="40%"/>
