@@ -1,6 +1,6 @@
 # Superposition in Non-linear Neural Networks #
 
-This repository contains reproductions of some of the graphs presented in [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html) showing how smaller non-linear neural networks can use super position to represent/compress larger neural networks.
+This repository contains reproductions of some of the graphs presented in [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html) showing how smaller non-linear neural networks (networks with non-linear activation functions) can exhibit superposition to represent/compress larger neural networks.
 
 I was interested to see how the representations form, especially after seeing [Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html), so have extended these graphs to show how they change during training.
 
